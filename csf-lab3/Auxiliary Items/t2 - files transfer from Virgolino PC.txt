@@ -1,0 +1,266 @@
+220 (vsFTPd 3.0.5)
+
+4.424867s
+USER virgolino
+
+0.000654s
+331 Please specify the password.
+
+2.227479s
+PASS ubuntu
+
+0.069448s
+230 Login successful.
+
+0.001756s
+SYST
+
+0.000965s
+215 UNIX Type: L8
+
+0.002458s
+FEAT
+
+0.000893s
+211-Features:
+ EPRT
+ EPSV
+ MDTM
+ PASV
+ REST STREAM
+ SIZE
+ TVFS
+211 End
+
+2.834737s
+EPSV
+
+0.001993s
+229 Entering Extended Passive Mode (|||10026|)
+
+0.002672s
+LIST
+
+0.002206s
+150 Here comes the directory listing.
+226 Directory send OK.
+
+2.913398s
+EPSV
+
+0.002411s
+229 Entering Extended Passive Mode (|||10050|)
+
+0.001312s
+NLST
+
+0.002989s
+150 Here comes the directory listing.
+226 Directory send OK.
+
+0.543075s
+CWD Downloads
+
+0.001277s
+250 Directory successfully changed.
+
+3.151956s
+EPSV
+
+0.001959s
+229 Entering Extended Passive Mode (|||10070|)
+
+0.002518s
+LIST
+
+0.003366s
+150 Here comes the directory listing.
+226 Directory send OK.
+
+4.952817s
+EPSV
+
+0.002070s
+229 Entering Extended Passive Mode (|||10060|)
+
+0.001111s
+NLST
+
+0.002640s
+150 Here comes the directory listing.
+226 Directory send OK.
+
+0.641828s
+TYPE I
+
+0.000384s
+200 Switching to Binary mode.
+
+0.010737s
+SIZE BankStatement.pdf
+
+0.000640s
+213 495075
+
+0.004286s
+EPSV
+
+0.003153s
+229 Entering Extended Passive Mode (|||10022|)
+
+0.014152s
+RETR BankStatement.pdf
+
+0.005078s
+150 Opening BINARY mode data connection for BankStatement.pdf (495075 bytes).
+226 Transfer complete.
+
+0.002734s
+MDTM BankStatement.pdf
+
+0.000000s
+213 20241009213455
+
+4.855131s
+SIZE MKU Documentation.pdf
+
+0.000001s
+213 241741
+
+0.001952s
+EPSV
+
+0.001220s
+229 Entering Extended Passive Mode (|||10089|)
+
+0.002753s
+RETR MKU Documentation.pdf
+
+0.002705s
+150 Opening BINARY mode data connection for MKU Documentation.pdf (241741 bytes).
+226 Transfer complete.
+
+0.000444s
+MDTM MKU Documentation.pdf
+
+0.000603s
+213 20241009213455
+
+1.651052s
+CWD ..
+
+0.000921s
+250 Directory successfully changed.
+
+3.086768s
+TYPE A
+
+0.000590s
+200 Switching to ASCII mode.
+
+0.000692s
+EPSV
+
+0.000508s
+229 Entering Extended Passive Mode (|||10005|)
+
+0.002289s
+NLST
+
+0.000437s
+150 Here comes the directory listing.
+226 Directory send OK.
+
+0.957442s
+CWD my_files
+
+0.001739s
+250 Directory successfully changed.
+
+1.782934s
+EPSV
+
+0.000709s
+229 Entering Extended Passive Mode (|||10010|)
+
+0.002426s
+LIST
+
+0.001560s
+150 Here comes the directory listing.
+226 Directory send OK.
+
+2.905694s
+EPSV
+
+0.000935s
+229 Entering Extended Passive Mode (|||10012|)
+
+0.001245s
+NLST
+
+0.001049s
+150 Here comes the directory listing.
+226 Directory send OK.
+
+0.571044s
+TYPE I
+
+0.000681s
+200 Switching to Binary mode.
+
+0.000378s
+SIZE rafael.eml
+
+0.000982s
+213 385
+
+0.000626s
+EPSV
+
+0.000850s
+229 Entering Extended Passive Mode (|||10046|)
+
+0.007762s
+RETR rafael.eml
+
+0.000962s
+150 Opening BINARY mode data connection for rafael.eml (385 bytes).
+226 Transfer complete.
+
+0.003050s
+MDTM rafael.eml
+
+0.001203s
+213 20241009213455
+
+3.406404s
+CWD ..
+
+0.000928s
+250 Directory successfully changed.
+
+1.563387s
+TYPE A
+
+0.001071s
+200 Switching to ASCII mode.
+
+0.000814s
+EPSV
+
+0.001238s
+229 Entering Extended Passive Mode (|||10055|)
+
+0.002507s
+LIST
+
+0.000415s
+150 Here comes the directory listing.
+226 Directory send OK.
+
+3.973596s
+QUIT
+
+0.000800s
+221 Goodbye.

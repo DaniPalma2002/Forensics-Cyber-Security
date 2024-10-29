@@ -1,0 +1,53 @@
+##### [tcp.stream](http://tcp.stream) eq 246   ######
+
+**Mensagens discord miguel estrela**
+
+`"Hey Diogo, wanna hang out soon?”`
+
+`"Yeah man, all good here!”`
+
+`"I didn...t know you had a part time job, where are you working?”`
+
+`"If you...re struggling with the SIRS project I can help you out, it was the best project I ever did in my time at T..cnico, I would be glad to help you out my brother.”`
+
+`"Good luck with the rap career man, and I hope your colleagues step on up to the plate!”`
+
+`"He...s doing good!”`
+
+`"He joined STT recently and he is becoming one of the best hackers there. He also told me that he has a crush on a girl from there, he calls her Kiti tho... not sure if she...s Portuguese.”`
+
+`"Well, about that, something...s been very sus lately...”`
+
+`"Well, one time I stayed at work a little bit late, doing some last minute stuff, and I heard Virgolino (you might know about him, he...s that kinda weird dude) and Rafael Calhau talking about some mind control stuff and restaurants in Oeiras.”`
+
+`"I thought it would be nothing, but then I let out a sneeze.”`
+
+`"I looked at them and they seemed terrified, as if I had overheard the most important thing ever, which made me very suspicious... It...s probably nothing though, who would do such a thing?”`
+
+`"Stay on topic man!”`
+
+`"I just can...t shake that feeling that something...s wrong with the satellite.”`
+
+
+
+##### [tcp.stream](http://tcp.stream) eq 702  ####
+
+`"Look man, you know I never liked Virgolino.”`
+
+`"He was always up to something shady...”`
+
+`"Remember when I caught him in a weird empty lot in Avenida de Ceuta? And then that whole weird situation with the Millenium Tower happened?”`
+
+`"And now he...s involved in this...”`
+
+`Anyways, I did some research online about it and I found this DECO report, take a look at it.”`
+
+`"attachments":[{"id":"0","filename":"report.pdf","uploaded_filename":"95d02945-744e-4051-b846-fc91a3cda4dc/report.pdf"}]`
+
+`"Yeah, it doesn...t seem related to anything, at least that I know of.”`
+
+`"Do you have any ideas of what it might be?”`
+
+`"Good point... This is all becoming very suspicious.”`
+
+`"Well, tonight I...m going to try to take a look at Virgolino...s computer. He usually leaves it on when he leaves at night, for some reason. See you.”`

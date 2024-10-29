@@ -1,0 +1,195 @@
+{
+    "Header": {
+        "ServerVersionInfo": {
+            "MajorVersion": 15,
+            "MinorVersion": 20,
+            "MajorBuildNumber": 8048,
+            "MinorBuildNumber": 17,
+            "Version": "V2018_01_18"
+        }
+    },
+    "Body": {
+        "__type": "GetConversationItemsResponse:#Exchange",
+        "ResponseMessages": {
+            "Items": [
+                {
+                    "__type": "GetConversationItemsResponseMessage:#Exchange",
+                    "Conversation": {
+                        "ConversationId": {
+                            "__type": "ItemId:#Exchange",
+                            "Id": "AQQkADAwATZiZmYAZC01MWI2LTYzYWQtMDACLTAwCgAQADfKZYbGo9pGqlpJ9GCGqFM="
+                        },
+                        "SyncState": "AQEAAAADrFxo",
+                        "ConversationNodes": [
+                            {
+                                "InternetMessageId": "<AS8P193MB16378002B03DACDED7896FB49E792@AS8P193MB1637.EURP193.PROD.OUTLOOK.COM>",
+                                "Items": [
+                                    {
+                                        "__type": "Message:#Exchange",
+                                        "Sender": {
+                                            "Mailbox": {
+                                                "Name": "Ricardo Prado",
+                                                "EmailAddress": "ricardo_prado1986@hotmail.com",
+                                                "RoutingType": "SMTP",
+                                                "MailboxType": "OneOff"
+                                            }
+                                        },
+                                        "ToRecipients": [
+                                            {
+                                                "Name": "rafaelcalhau123@hotmail.com",
+                                                "EmailAddress": "rafaelcalhau123@hotmail.com",
+                                                "RoutingType": "SMTP",
+                                                "MailboxType": "OneOff",
+                                                "Submitted": false
+                                            }
+                                        ],
+                                        "ItemId": {
+                                            "__type": "ItemId:#Exchange",
+                                            "ChangeKey": "CQAAABYAAACxQQU49aJuTqHpYqL6qxH8AAADqmaE",
+                                            "Id": "AQMkADAwATZiZmYAZC01MWI2LTYzYWQtMDACLTAwCgBGAAADURt6ulhYAFNNnA26ozirhtYHALFBBTj1om5OoeliovqrEfwAAAIBDAAAALFBBTj1om5OoeliovqrEfwAAAADrFxoAAAA"
+                                        },
+                                        "ParentFolderId": {
+                                            "__type": "FolderId:#Exchange",
+                                            "Id": "AQMkADAwATZiZmYAZC01MWI2LTYzYWQtMDACLTAwCgAuAAADURt6ulhYAFNNnA26ozirhtYBALFBBTj1om5OoeliovqrEfwAAAIBDAAAAA==",
+                                            "ChangeKey": "AQAAAA=="
+                                        },
+                                        "ItemClass": "IPM.Note",
+                                        "IsReadReceiptRequested": false,
+                                        "Subject": "Urgent: Immediate Security Update Required for Your Computer Drivers",
+                                        "Sensitivity": "Normal",
+                                        "Importance": "Normal",
+                                        "Attachments": [
+                                            {
+                                                "__type": "FileAttachment:#Exchange",
+                                                "AttachmentId": {
+                                                    "Id": "AQMkADAwATZiZmYAZC01MWI2LTYzYWQtMDACLTAwCgBGAAADURt6ulhYAFNNnA26ozirhtYHALFBBTj1om5OoeliovqrEfwAAAIBDAAAALFBBTj1om5OoeliovqrEfwAAAADrFxoAAAAARIAEADjfYxif8LwQ4jJZhqwpqLE"
+                                                },
+                                                "Name": "driver-update.zip",
+                                                "ContentType": "application/zip",
+                                                "ContentId": "DCCC9B024D7D464BA823689862771338@EURP193.PROD.OUTLOOK.COM",
+                                                "Size": 2446,
+                                                "LastModifiedTime": "2024-10-11T10:50:43"
+                                            }
+                                        ],
+                                        "From": {
+                                            "Mailbox": {
+                                                "Name": "Ricardo Prado",
+                                                "EmailAddress": "ricardo_prado1986@hotmail.com",
+                                                "RoutingType": "SMTP",
+                                                "MailboxType": "OneOff"
+                                            }
+                                        },
+                                        "DateTimeReceived": "2024-10-11T10:50:43Z",
+                                        "InternetMessageId": "<AS8P193MB16378002B03DACDED7896FB49E792@AS8P193MB1637.EURP193.PROD.OUTLOOK.COM>",
+                                        "Size": 80182,
+                                        "IsRead": false,
+                                        "IsSubmitted": false,
+                                        "IsDraft": false,
+                                        "ReceivedRepresenting": {
+                                            "Mailbox": {
+                                                "Name": "Rafael Calhau",
+                                                "EmailAddress": "rafaelcalhau123@hotmail.com",
+                                                "RoutingType": "SMTP",
+                                                "MailboxType": "Mailbox"
+                                            }
+                                        },
+                                        "DateTimeSent": "2024-10-11T10:50:39Z",
+                                        "DateTimeCreated": "2024-10-11T10:50:43Z",
+                                        "ResponseObjects": [
+                                            {
+                                                "__type": "ReplyToItem:#Exchange"
+                                            },
+                                            {
+                                                "__type": "ReplyAllToItem:#Exchange"
+                                            },
+                                            {
+                                                "__type": "ForwardItem:#Exchange"
+                                            }
+                                        ],
+                                        "RecipientCounts": {
+                                            "ToRecipientsCount": 1
+                                        },
+                                        "IsGroupEscalationMessage": false,
+                                        "MessageSafety": {
+                                            "MessageSafetyLevel": 2
+                                        },
+                                        "DisplayTo": "rafaelcalhau123@hotmail.com",
+                                        "HasAttachments": true,
+                                        "ExtendedProperty": [
+                                            {
+                                                "ExtendedFieldURI": {
+                                                    "__type": "ExtendedPropertyUri:#Exchange",
+                                                    "PropertyTag": "0xe1d",
+                                                    "PropertyType": "String"
+                                                },
+                                                "Value": "Urgent: Immediate Security Update Required for Your Computer Drivers"
+                                            },
+                                            {
+                                                "ExtendedFieldURI": {
+                                                    "__type": "ExtendedPropertyUri:#Exchange",
+                                                    "PropertyTag": "0x1016",
+                                                    "PropertyType": "Integer"
+                                                },
+                                                "Value": "3"
+                                            },
+                                            {
+                                                "ExtendedFieldURI": {
+                                                    "__type": "ExtendedPropertyUri:#Exchange",
+                                                    "PropertyTag": "0x6815",
+                                                    "PropertyType": "Integer"
+                                                },
+                                                "Value": "1076143"
+                                            },
+                                            {
+                                                "ExtendedFieldURI": {
+                                                    "__type": "ExtendedPropertyUri:#Exchange",
+                                                    "DistinguishedPropertySetId": "Common",
+                                                    "PropertyName": "NetworkMessageId",
+                                                    "PropertyType": "CLSID"
+                                                },
+                                                "Value": "517cfb51-317a-468a-6c9e-08dce9e28cde"
+                                            }
+                                        ],
+                                        "TailoredXpCalendarEventIds": [],
+                                        "LastModifiedTime": "2024-10-11T10:50:59Z",
+                                        "ConversationId": {
+                                            "__type": "ItemId:#Exchange",
+                                            "Id": "AQQkADAwATZiZmYAZC01MWI2LTYzYWQtMDACLTAwCgAQADfKZYbGo9pGqlpJ9GCGqFM="
+                                        },
+                                        "UniqueBody": {
+                                            "BodyType": "HTML",
+                                            "Value": "<style type=\"text/css\" style=\"display:none\">\r\n<!--\r\n.rps_8a3c p\r\n\t{margin-top:0;\r\n\tmargin-bottom:0}\r\n-->\r\n</style><div class=\"rps_8a3c\"><div dir=\"ltr\"><div style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\">Dear Rafael,</div><div style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\"><br></div><div style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\">I hope this message finds you well. As part of a routine security upgrade across IST’s systems, we’ve identified the need for all users to update their computer drivers to ensure they are safe from the most recent detected threats. This is part of an ongoing effort by DSI to enhance system security at the Taguspark campus.</div><div style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\"><br></div><div style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\">The update package is attached to this email.</div><div style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\"><br></div><div style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\">This update is urgent as a new virus has come to our attention, and so we ask that you complete it within the next 24 hours to avoid any security breaches.</div><div style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\"><br></div><div style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\">If you have any questions, please feel free to contact the DSI support team.</div><div style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\"><br></div><div style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\">Thank you for your cooperation.</div><div style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\"><br></div><div style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\">Best regards,</div><div style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\">Ricardo Prado</div><div style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\">Head of IT Department (DSI)</div><div style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\">IST Taguspark Campus</div></div></div>",
+                                            "IsTruncated": false
+                                        },
+                                        "Flag": {
+                                            "FlagStatus": "NotFlagged"
+                                        },
+                                        "InstanceKey": "AQEAAAAAAAEMAQAAAAOsXGgAAAAA",
+                                        "EntityExtractionResult": {},
+                                        "Preview": "Dear Rafael,\r\n\r\nI hope this message finds you well. As part of a routine security upgrade across IST’s systems, we’ve identified the need for all users to update their computer drivers to ensure they are safe from the most recent detected threats. This is",
+                                        "BlockStatus": false,
+                                        "HasBlockedImages": false,
+                                        "ReceivedOrRenewTime": "2024-10-11T10:50:43Z",
+                                        "ConversationThreadId": {
+                                            "__type": "ItemId:#Exchange",
+                                            "Id": "AQQkADAwATZiZmYAZC01MWI2LTYzYWQtMDACLTAwCgMkABAAN8plhsaj2kaqWkn0YIaoUxAAN8plhsaj2kaqWkn0YIaoUw=="
+                                        },
+                                        "Apps": [],
+                                        "InferenceClassification": "Focused",
+                                        "CanDelete": true
+                                    }
+                                ],
+                                "IsRootNode": true
+                            }
+                        ],
+                        "TotalConversationNodesCount": 1,
+                        "LastModifiedTime": null,
+                        "ConversationDiagnosticsInfo": null
+                    },
+                    "ResponseCode": "NoError",
+                    "ResponseClass": "Success"
+                }
+            ]
+        }
+    }
+}
